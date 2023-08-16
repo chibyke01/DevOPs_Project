@@ -129,7 +129,7 @@ We used the **_put_** cmd since we are sending the files to teh remote, but in a
 
 `get -r <name_of_folder>`
 
-## States in which a Process can be
+## Process state in Linux
 **R - Runnable state** - this state has all the resource to run but the CPU is not availiable.
 
 **R - Running state** - happen when a process is running on the CPU
